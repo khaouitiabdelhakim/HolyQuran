@@ -24,3 +24,6 @@ data class Surah(
     val verses: Array<String>
 )
 
+
+//sounds
+//https://www.everyayah.com/data/MaherAlMuaiqly128kbps/114[surah number]002[verse number].mp3
