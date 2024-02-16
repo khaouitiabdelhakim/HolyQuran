@@ -18,6 +18,7 @@ If you'd like to support further, consider buying me a coffee:
 ## Example Usage
 
 ```kotlin
+// Example of accessing the 3rd verse of the 4th Surah in the Holy Quran
 val holyQuran = HolyQuran()
 val thirdVerseFourthSurah: String = holyQuran.hafsVersion[3].verses[2]
 ```
