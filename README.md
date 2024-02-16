@@ -62,10 +62,10 @@ dependencies {
 }
 ```
 
-```
-Note:  Do not forget to change Tag with the latest version - current version [![](https://jitpack.io/v/khaouitiabdelhakim/HolyQuran.svg)](https://jitpack.io/#khaouitiabdelhakim/HolyQuran)
 
-```
+# Note:  
+Do not forget to change Tag with the latest version - current version [![](https://jitpack.io/v/khaouitiabdelhakim/HolyQuran.svg)](https://jitpack.io/#khaouitiabdelhakim/HolyQuran)
+
 
 ## Contribution
 
