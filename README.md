@@ -2,7 +2,7 @@
 
 The HolyQuran Android Library empowers developers to seamlessly incorporate comprehensive Quranic data into Android applications. It provides essential Surah details such as name, type, English name, number, verses, words, and letters, facilitating easy access to Quranic information within your Android projects.
 
-![alt text](
+![alt text](https://github.com/khaouitiabdelhakim/HolyQuran/blob/master/HolyQuran.png)
 
 
 ```
