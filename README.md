@@ -34,8 +34,7 @@ Russian, Chinese, Hindi, Spanish, Portuguese, Bengali, Urdu, Italian, Vietnamese
 ```kotlin
 val germanVerse: String = germanQuran.verses[3][2]
 // Example of accessing the 3rd verse of the 4th Surah in German translation:
-// Und wenn ihr befürchtet, nicht gerecht hinsichtlich der Waisen zu handeln, dann heiratet, was euch an Frauen gut scheint, zwei, drei oder vier. Wenn ihr aber befürchtet, nicht gerecht zu handeln, dann (nur) eine oder was eure rechte Hand besitzt. Das ist eher geeignet, daß ihr nicht ungerecht seid.
-```
+// Und wenn ihr befürchtet, nicht gerecht hinsichtlich der Waisen zu handeln ...
 
 ## Installation
 
