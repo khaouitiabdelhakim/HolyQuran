@@ -59,7 +59,6 @@ publishing {
             groupId = "com.abdelhakim"
             artifactId = "holyquran"
             version = "1.0.0"
-
             afterEvaluate {
                 from(components["release"])
             }

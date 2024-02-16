@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.abdelhakim.holyquran"
+    namespace = "com.abdelhakim.holyquranapp"
     compileSdk = 34
 
     defaultConfig {
