@@ -61,6 +61,7 @@ dependencies {
     implementation ("com.github.khaouitiabdelhakim:HolyQuran:Tag")
 }
 ```
+change Tag with the latest version - current version [![](https://jitpack.io/v/khaouitiabdelhakim/HolyQuran.svg)](https://jitpack.io/#khaouitiabdelhakim/HolyQuran)
 
 ## Contribution
 
