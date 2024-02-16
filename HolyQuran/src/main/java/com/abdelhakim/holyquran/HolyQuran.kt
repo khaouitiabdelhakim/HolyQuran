@@ -10,9 +10,9 @@
 
 package com.abdelhakim.holyquran
 
-class HolyQuran {
+class  HolyQuran {
 
-    public val hafsVersion = arrayListOf(
+    val hafsVersion = arrayListOf(
 
         Surah(
             name = "الفاتحة",

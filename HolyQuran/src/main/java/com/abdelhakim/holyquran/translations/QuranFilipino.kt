@@ -5564,8 +5564,7 @@ arrayOf(
 "Ang kapangyarihan ko ay kagyat na pumanaw!”",
 "(At ang makapangyarihang utos ay ipagbabadya): Kunin siya at igapos (ng kadena)",
 "At sunugin siya sa Naglalagablab na Apoy",
-"At bukod pa rito, At bukod pa rito, talian siyang tanikalanaangh
-ba nito ay pitumpung kubiko",
+"At bukod pa rito, At bukod pa rito, talian siyang tanikalanaangh ba nito ay pitumpung kubiko",
 "Katotohanang siya ay hindi sumampalataya kay Allah, ang Kataas-taasang Diyos",
 "At hindi nagmamalasakit na pakainin ang mga kapus-palad",
 "Kaya’t siya ay walang kaibigan dito sa Araw na ito",
