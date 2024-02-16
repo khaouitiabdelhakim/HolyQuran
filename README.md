@@ -35,6 +35,7 @@ Russian, Chinese, Hindi, Spanish, Portuguese, Bengali, Urdu, Italian, Vietnamese
 val germanVerse: String = germanQuran.verses[3][2]
 // Example of accessing the 3rd verse of the 4th Surah in German translation:
 // Und wenn ihr befürchtet, nicht gerecht hinsichtlich der Waisen zu handeln ...
+```
 
 ## Installation
 
